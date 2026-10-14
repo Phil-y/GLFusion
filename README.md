@@ -1,6 +1,5 @@
 # GLFusion
 
-This repository is the official implementation of GLFusion: A Global–Local Fusion Network for Admission-Associated Cardiovascular Disease Risk Assessment from Chest Radiographs.
 
 ![GLFusion](model.png)
 
